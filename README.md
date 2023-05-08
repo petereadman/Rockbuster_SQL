@@ -1,5 +1,5 @@
 # Rockbuster Stealth LLC
-SQL queries of a fictional movie rental company's database as part of *Career Foundry's* **Data Analytics** program
+**PostgreSQL** queries of a fictional movie rental company's database as part of *Career Foundry's* **Data Analytics** program
 ## Project Introduction
 **Rockbuster Stealth LLC** is a fictional movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as *Netflix* and *Amazon Prime*,
